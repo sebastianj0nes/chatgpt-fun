@@ -1,3 +1,16 @@
+*{
+  background-color: #f4a261;
+  color: #edede9;
+}
+
+#center{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
 .App {
   text-align: center;
 }
