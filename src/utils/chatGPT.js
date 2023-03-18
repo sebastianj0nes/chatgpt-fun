@@ -62,7 +62,7 @@ function ChatGPT() {
                 <h2>{pickupLine}</h2>
             </div>
             <div className="text-center">
-                <img src={image} alt="Pepe"></img>
+                <img src={image}></img>
             </div>
         </div>
 
