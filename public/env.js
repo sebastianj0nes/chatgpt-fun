@@ -23,9 +23,9 @@ window.env = {
   "npm_config_userconfig": "/Users/user/.npmrc",
   "npm_config_init_module": "/Users/user/.npm-init.js",
   "__CFBundleIdentifier": "com.apple.Terminal",
-  "npm_command": "start",
+  "npm_command": "run-script",
   "PWD": "/Users/user/Desktop/chatgpt-fun",
-  "npm_lifecycle_event": "start",
+  "npm_lifecycle_event": "build",
   "EDITOR": "vi",
   "LANG": "en_GB.UTF-8",
   "XPC_FLAGS": "0x0",
@@ -35,9 +35,9 @@ window.env = {
   "HOME": "/Users/user",
   "npm_config_cache": "/Users/user/.npm",
   "LOGNAME": "user",
-  "npm_lifecycle_script": "react-dotenv && react-scripts start",
+  "npm_lifecycle_script": "react-dotenv && react-scripts build",
   "npm_config_user_agent": "npm/8.19.3 node/v19.4.0 darwin x64 workspaces/false",
   "npm_node_execpath": "/usr/local/Cellar/node/19.4.0/bin/node",
   "npm_config_prefix": "/usr/local/Cellar/node/19.4.0",
-  "REACT_APP_API_KEY": "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"
+  "REACT_APP_API_KEY": "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"
 };
