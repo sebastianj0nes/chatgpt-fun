@@ -3,8 +3,8 @@ import ChatGPT from './utils/chatGPT';
 
 function App() {
   return (
-  <div>
-      <ChatGPT/>
+    <div>
+      <ChatGPT />
     </div>
   );
 }
